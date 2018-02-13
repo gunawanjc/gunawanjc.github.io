@@ -1,0 +1,17 @@
+name: my-website
+navbar:
+  title: My Website
+  left:
+  - text: Home
+    href: index.html
+  right:
+  - text: About
+    href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    lib_dir: site_libs
+    self_contained: no
+output_dir: _site
+
