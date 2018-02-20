@@ -1,5 +1,11 @@
 ---
-title: "About This Website"
+title: "About"
 ---
 
-More about this website.
+
+
+## About Ansen Gunawan 
+
+In 2016, I graduated from Sun Valley High School. From there I went to Appalachian State University where I am currently a sophmore majoring in Mathmatics with a concentration in statsitics. Hopefully, I will be able to continue down this career path and work with data regarding essential information for companies. 
+
+However, before becoming a math major, I was a biology major with a minor in chemistry. During that time, I researched into absorption and transmittance of sunlight between the top and bottom layer of leaves. Upon the completion of the research, it was discovered that chlorophyll are present equally between the top and bottom layer. This came to a suprise as the top of leaves are typically more green than the bottom. Research is being presented at Association of Southeastern Biologists in April. 

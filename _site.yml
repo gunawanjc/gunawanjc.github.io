@@ -1,10 +1,12 @@
-name: my-website
+name: Website Creator
+output_dir: '.'
 navbar:
-  title: My Website
+  title: Website Creator
   left:
   - text: Home
     href: index.html
-  right:
+  - text: Reproducible Research
+    href: html_document
   - text: About
     href: about.html
 output:
@@ -13,5 +15,4 @@ output:
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
-output_dir: _site
 
