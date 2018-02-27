@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research"
-output: reproducibleresearch.html
+output: html_document
 ---
 
 ##Reduction in Adult Smoking due to E-Cigs

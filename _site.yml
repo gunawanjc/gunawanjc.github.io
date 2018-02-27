@@ -1,15 +1,15 @@
-name: Biology and Statistics 
+name: Biology and Statistics
 output_dir: '.'
 navbar:
   title: HOME
   left:
   - text: Reproducible Research
-    href: reproducibleresearch.html
+    href: html_document
   - text: About
     href: about.html
 output:
   html_document:
-    theme: spacelab
+    theme: cosmo
     highlight: textmate
     lib_dir: site_libs
     self_contained: no
