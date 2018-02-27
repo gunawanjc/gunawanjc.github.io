@@ -1,17 +1,15 @@
-name: Website Creator
+name: Biology and Statistics 
 output_dir: '.'
 navbar:
-  title: Website Creator
+  title: HOME
   left:
-  - text: Home
-    href: index.html
   - text: Reproducible Research
-    href: html_document
+    href: reproducibleresearch.html
   - text: About
     href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: spacelab
     highlight: textmate
     lib_dir: site_libs
     self_contained: no

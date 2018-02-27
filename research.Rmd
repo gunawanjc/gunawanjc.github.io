@@ -1,7 +1,26 @@
 ---
-title: "reaserch.Rmd"
-output: html_document
+title: "Reproducible Research"
+output: reproducibleresearch.html
 ---
 
-Research! 
+##Reduction in Adult Smoking due to E-Cigs
+
+**Introduction:** 
+
+Electronic cigarettes are battery-operated devices that people use as a substitute to regular cigarettes. The device allows people to inhale an aerosol, which typically contains nicotine, flavorings, and other chemicals. The rate of E-cigs usage has increased as well as a notable decline in cigarette use. Research was done to observe if E-cigs are the reason for cigarette user's decline. 
+
+**Methods:**
+
+To test this hypothesis, subjects were randomly assigned to two groups. One group was assigned with a 3-week supply of disposable 4.5% nicotine E-cigs and the other a placebo E-cigs. The assingments was done without the knowledge of either the researchers or the subjects, meaning it was double blind. This was done to avoid any bias that can occur in the interpretation of the results. The subjects, either with the placebo or the E-cigs will continue their smoking habits that will now include both regular cig and eletronic cigs. Over the three weeks, subjects will submit a self-report on their use of regular cigarettes. The last report on cigarette use will be compared to their baseline. In this experiment, there were ninety-nine subjects in the age between 21-35 years old who would considered themselves smokers living in NYC. 
+
+**Results:**
+
+The comparison of the baseline and last  self-report, a significant reduction in cigarettes per day was observed in both groups: E-cig and placebo. 
+
+**Conclusion:**
+
+Study subjects that include a sample of young adults who would considered themselves everyday smokers was able to reduce smoking with the help of E-cigs. 
+
+sources: https://www.ncbi.nlm.nih.gov/pubmed/26783292 
+
 
